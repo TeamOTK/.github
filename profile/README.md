@@ -9,9 +9,9 @@
 ## 📌 주요 기능
 <table>
   <tr>
-    <td>![IMG_6663](https://github.com/TeamOTK/.github/assets/79784618/31f29dd8-6cdf-42d9-9fb4-56e3390ead71)
+    <td><img width="500" alt="image" src=https://github.com/TeamOTK/.github/assets/79784618/31f29dd8-6cdf-42d9-9fb4-56e3390ead71>
 </td>
-    <td>![IMG_6664](https://github.com/TeamOTK/.github/assets/79784618/c22e701c-daac-4852-bc45-b74f88434e78)
+    <td><img width="500" alt="image" src=https://github.com/TeamOTK/.github/assets/79784618/c22e701c-daac-4852-bc45-b74f88434e78>
 </td>
   </tr>
   <tr>
@@ -21,9 +21,9 @@
 </table>
 <table>
   <tr>
-    <td>![IMG_6665](https://github.com/TeamOTK/.github/assets/79784618/a4080160-b32b-4598-bfb3-7d9ca4689eca)
+    <td><img width="500" alt="image" src=https://github.com/TeamOTK/.github/assets/79784618/a4080160-b32b-4598-bfb3-7d9ca4689eca>
 </td>
-    <td>![IMG_6666](https://github.com/TeamOTK/.github/assets/79784618/8e5049c8-dac8-48c8-9fd3-35b9b970676c)
+    <td><img width="500" alt="image" src=https://github.com/TeamOTK/.github/assets/79784618/8e5049c8-dac8-48c8-9fd3-35b9b970676c>
 </td>
   </tr>
   <tr>
